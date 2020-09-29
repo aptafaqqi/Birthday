@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Sept 1, 2020',
+  birthdate: 'Sept 30, 2020',
   name: 'JIHAN ATSILAH, EVERYBODY LOVES YOU'
 };
 
